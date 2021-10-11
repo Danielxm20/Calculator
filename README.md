@@ -1,2 +1,3 @@
 # Calculator
-Basic Calculator
+Basic GUI Calculator made with Tkinter.
+
